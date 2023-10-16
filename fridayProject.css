@@ -1,0 +1,18 @@
+
+.pic {
+    display: block;
+    max-width: 500px;
+    max-height: 500px;
+    margin: 5px;
+}
+.home {
+    background-color: rgba(0, 213, 255, 0.478);
+}
+
+.pictureAlbum {
+    background-color:burlywood;
+}
+
+.interestingFacts {
+    background-color: rgba(249, 0, 253, 0.219);
+}
